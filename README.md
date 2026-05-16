@@ -8,3 +8,5 @@ Key Features & Technical Implementation:
 - Renewable Energy: Powered by a Solar Power System (Solar Panels, SCC, and Lead-Acid Battery) with an LM2596 Buck Converter for stable voltage regulation.
 - Automated Control: Implemented a dual-channel relay system to control heating lamps (parallel circuit) and exhaust fans for optimal airflow and moisture removal.
 - User Interface: Designed an interactive web-based dashboard and on-device OLED display for local and remote monitoring.
+
+![Image Alt](https://github.com/Paintingzboy/SIPEKAM/blob/3a62a07cb5e228ffc0765b5510f8b4e2fdb33e76/Electronic%20SIPEKAM.jpeg)
